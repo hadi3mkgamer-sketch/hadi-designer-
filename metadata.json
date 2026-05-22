@@ -1,0 +1,6 @@
+{
+  "name": "Hadi Designer",
+  "description": "Professional, sleek portfolio app for graphic designer Hadi, featuring a hidden secure admin panel for live portfolio, logo, and contact info editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
